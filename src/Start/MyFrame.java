@@ -4,7 +4,7 @@ package Start;
 import javax.swing.JFrame;
 //importowanie pakietu Swing, którego zawartoœci¹ jest JButton
 import javax.swing.JButton;
-
+//importowanie event w celu wykorzystania ActionEvent i ActionListener
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
