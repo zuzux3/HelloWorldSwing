@@ -23,6 +23,7 @@ public class MyFrame extends JFrame implements ActionListener{
 		this.setVisible(true);
 	}	
 	
+	//drukowanie "Hi" w konsoli
 	public void actionPerformed(ActionEvent e) {
 		System.out.println("Hi");
 	}
